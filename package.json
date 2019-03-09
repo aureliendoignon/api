@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/aureliendoignon/api.git"
   },
+  "engines": {
+    "node": "6.11.2"
+  },
   "keywords": [
     "api",
     "node.js",
